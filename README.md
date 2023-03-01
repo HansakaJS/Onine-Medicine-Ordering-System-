@@ -4,10 +4,7 @@
 
 ![Screenshot_11](https://user-images.githubusercontent.com/91568447/209399299-0f6ae342-66d8-4abc-979c-03ac8d4a30cf.png)
 
-
-
-
-![Screenshot_8](https://user-images.githubusercontent.com/91568447/209398677-c271192d-5c22-4755-a8a7-fdba9bfb5758.png)
+## LogIn & SignUp Page
 
 
 ![Screenshot_68](https://user-images.githubusercontent.com/91568447/222240541-120e1240-86f6-47a7-91de-3be9d71c572b.png)
