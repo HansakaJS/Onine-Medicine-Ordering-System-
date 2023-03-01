@@ -1,4 +1,4 @@
-# Onine-Medicine-Ordering-System
+# Online-Medicine-Ordering-System
 
 ![Screenshot_6](https://user-images.githubusercontent.com/91568447/209398176-9aac4962-6983-4526-9488-b26ef03ebb01.png)
 
